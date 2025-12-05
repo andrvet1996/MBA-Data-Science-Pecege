@@ -1,0 +1,1 @@
+Projeto de TCC do curso de Data Science do PECEGE, baseado na análise exploratória e estatística de dados anonimizados de peso e altura de estudantes de uma escola de Ensino Médio Técnico da zona oeste da Grande São Paulo.
